@@ -1,11 +1,10 @@
 #!/bin/bash
 
 tasks_store="$HOME/.tasks.qo.txt"
-# common code that will have to run every time
+
 [ ! -f $tasks_store ] && touch $tasks_store
 
-## qo prints the latest task which you should be focusing on
-# just print it
+## prints the latest task which you should be focusing on
 [[ "$#" -eq 0 ]] && head -n 1 $tasks_store
 
 while [[ "$#" -gt 0 ]]; do
