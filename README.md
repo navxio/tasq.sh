@@ -4,7 +4,7 @@ qo, short for qonverge, is a dead simple task manager that arranges your tasks i
 so you could focus on them **one at a time**, without distractions
 
 ### Installation
-Just download qo.sh and add it in your `$PATH`
+Just download qo.sh and add it to your `$PATH`
 
 ### Usage
 
