@@ -1,6 +1,9 @@
 #!/bin/bash
 
-tasks_store="$HOME/.tasks.qo.txt"
+qo_home="${XDG_DATA_HOME:-$HOME/.local/share}/qo"
+mkdir -p $qo_home
+
+tasks_store="$qo_home/tasks.txt"
 
 [ ! -f $tasks_store ] && touch $tasks_store
 
