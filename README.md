@@ -1,6 +1,6 @@
 # qo
 
-qo, short for qonverge, is a dead simple task manager that arranges your tasks in a queue
+**qo**nverge, is a dead simple task manager that arranges your tasks in a queue
 so you could focus on them **one at a time**, without distractions
 
 ### Installation
