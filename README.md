@@ -8,7 +8,7 @@ Just download qo.sh and add it to your `$PATH`
 
 ### Usage
 
-Run `./qo.sh` to print out the latest task to the console
+Run `./tasq.sh` to print out the latest task to the console
 
 Only two flags:
 
