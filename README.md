@@ -4,7 +4,7 @@ A dead simple task manager that arranges your tasks in a queue
 so you could focus on them **one at a time**, without distractions
 
 ### Installation
-Just download qo.sh and add it to your `$PATH`
+Just download tasq.sh and add it to your `$PATH`
 
 ### Usage
 
