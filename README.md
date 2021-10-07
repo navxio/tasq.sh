@@ -14,7 +14,8 @@ add it to your `$PATH`
 
 Run `./tasq.sh` to print out the latest task to the console
 
-Flags:
+Flags
+
 `-h, --help` print help text
 
 `-a, --add "task"` adds a task to the *bottom* of the queue
