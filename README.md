@@ -18,6 +18,6 @@ Flags
 
 `-h, --help` print help text
 
-`-a, --add "task"` adds a task to the *bottom* of the queue
+`-a, --add "task"` adds a task to the *end* of the queue
 
 `-x, --mark-done` marks the latest task as done and removes it from the queue
