@@ -1,7 +1,7 @@
 # tasq
 
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/navxio/tasq/blob/master/LICENSE)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/navxio/tasq/blob/master/LICENSE)
 
 A dead simple task manager that arranges your tasks in a queue
 so you could focus on them **one at a time**, without distractions
