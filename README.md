@@ -1,5 +1,6 @@
 # tasq
 
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 A dead simple task manager that arranges your tasks in a queue
 so you could focus on them **one at a time**, without distractions
 
