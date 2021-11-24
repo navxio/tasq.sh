@@ -7,7 +7,7 @@ A dead simple task manager that arranges your tasks in a queue
 so you could focus on them **one at a time**, without distractions
 
 ### Installation
-Download tasq.sh and add it to your `$PATH`
+Download [tasq.sh](https://raw.githubusercontent.com/navxio/tasq.sh/master/tasq.sh) and add it to your `$PATH`
 
 ### Usage
 
